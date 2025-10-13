@@ -1,0 +1,4 @@
+﻿  videojuego.cpp
+C:\Users\diego\OneDrive\Desktop\UNAV\3ro\Infor-II\Examenes Anteriores\Mayo2024\EmpresaVideojuegos\EmpresaVideojuegos\videojuego.cpp(11,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\diego\OneDrive\Desktop\UNAV\3ro\Infor-II\Examenes Anteriores\Mayo2024\EmpresaVideojuegos\EmpresaVideojuegos\videojuego.cpp(50,1): warning C4172: returning address of local variable or temporary : rand_char
+  EmpresaVideojuegos.vcxproj -> C:\Users\diego\OneDrive\Desktop\UNAV\3ro\Infor-II\Examenes Anteriores\Mayo2024\EmpresaVideojuegos\x64\Debug\EmpresaVideojuegos.exe

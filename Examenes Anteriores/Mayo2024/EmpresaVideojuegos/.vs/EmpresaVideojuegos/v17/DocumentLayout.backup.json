@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Mayo2024\\EmpresaVideojuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E936E4-0A5B-41F3-9915-50A576489AC3}|EmpresaVideojuegos\\EmpresaVideojuegos.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Mayo2024\\EmpresaVideojuegos\\EmpresaVideojuegos\\videojuego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1E936E4-0A5B-41F3-9915-50A576489AC3}|EmpresaVideojuegos\\EmpresaVideojuegos.vcxproj|solutionrelative:EmpresaVideojuegos\\videojuego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "videojuego.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Mayo2024\\EmpresaVideojuegos\\EmpresaVideojuegos\\videojuego.cpp",
+              "RelativeDocumentMoniker": "EmpresaVideojuegos\\videojuego.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Mayo2024\\EmpresaVideojuegos\\EmpresaVideojuegos\\videojuego.cpp",
+              "RelativeToolTip": "EmpresaVideojuegos\\videojuego.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T17:06:17.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
