@@ -507,7 +507,7 @@
 		)
 		(uuid "73659296-893b-4cc8-bb96-d9a23452b4bc")
 	)
-	(text "1F (R) + N "
+	(text "1F (S) + N "
 		(exclude_from_sim no)
 		(at 259.842 142.748 0)
 		(effects
