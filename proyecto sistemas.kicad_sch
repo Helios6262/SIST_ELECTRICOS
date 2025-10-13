@@ -345,7 +345,7 @@
 		)
 		(uuid "1b7eb27f-7a87-44e2-b44b-8138c5815b5b")
 	)
-	(text "1F + N (S)"
+	(text "1F (S) + N "
 		(exclude_from_sim no)
 		(at 176.784 143.002 0)
 		(effects
@@ -507,7 +507,7 @@
 		)
 		(uuid "73659296-893b-4cc8-bb96-d9a23452b4bc")
 	)
-	(text "1F + N (S)"
+	(text "1F (R) + N "
 		(exclude_from_sim no)
 		(at 259.842 142.748 0)
 		(effects
@@ -588,7 +588,7 @@
 		)
 		(uuid "a4002004-df0c-4af5-b97e-e3046b7c4dcb")
 	)
-	(text "1F + N (S)"
+	(text "1F (T) + N"
 		(exclude_from_sim no)
 		(at 222.25 143.256 0)
 		(effects
@@ -658,7 +658,7 @@
 		)
 		(uuid "ad8b6e7c-cd57-4326-a548-9de44a8ec27b")
 	)
-	(text "1F + N (R)"
+	(text "1F (R) + N "
 		(exclude_from_sim no)
 		(at 139.446 142.748 0)
 		(effects
@@ -1003,137 +1003,6 @@
 				(type solid)
 			)
 		)
-		(column_widths 30.48)
-		(row_heights 3.81 3.81)
-		(cells
-			(table_cell "Horno Selecta HT"
-				(exclude_from_sim no)
-				(at 83.82 146.05 0)
-				(size 30.48 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify left top)
-				)
-				(uuid "e71e9375-0106-4747-a1c8-a2d850bdd399")
-			)
-			(table_cell "1 enchufe pulidora"
-				(exclude_from_sim no)
-				(at 83.82 149.86 0)
-				(size 30.48 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify left top)
-				)
-				(uuid "af5fb54c-558b-4d5e-aa98-f34455fa1d86")
-			)
-		)
-	)
-	(table
-		(column_count 1)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 22.86)
-		(row_heights 6.35 5.08 6.35)
-		(cells
-			(table_cell "Centrifugadora Merck"
-				(exclude_from_sim no)
-				(at 248.92 146.05 0)
-				(size 22.86 6.35)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify left top)
-				)
-				(uuid "c1a665a3-1d27-4324-ac12-d48df7e77717")
-			)
-			(table_cell "Agitadora Velp"
-				(exclude_from_sim no)
-				(at 248.92 152.4 0)
-				(size 22.86 5.08)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify left top)
-				)
-				(uuid "36ed79cb-dbfe-43c0-b760-617b6d04bfa7")
-			)
-			(table_cell "Cromotografo Metrohm"
-				(exclude_from_sim no)
-				(at 248.92 157.48 0)
-				(size 22.86 6.35)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify left top)
-				)
-				(uuid "66931382-9206-4b37-839c-7b1cf0d6321f")
-			)
-		)
-	)
-	(table
-		(column_count 1)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
 		(column_widths 22.86)
 		(row_heights 3.81 6.35)
 		(cells
@@ -1227,6 +1096,63 @@
 					(justify left top)
 				)
 				(uuid "b9f829a0-86af-46e9-9098-2bb32f7ec03a")
+			)
+		)
+	)
+	(table
+		(column_count 1)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 24.13)
+		(row_heights 6.35 6.35)
+		(cells
+			(table_cell "Centrifugadora Selecta"
+				(exclude_from_sim no)
+				(at 52.07 146.05 0)
+				(size 24.13 6.35)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify left top)
+				)
+				(uuid "2df423ca-bc37-42b3-a2b4-7663dd01b836")
+			)
+			(table_cell "2 enchufes de piladora"
+				(exclude_from_sim no)
+				(at 52.07 152.4 0)
+				(size 24.13 6.35)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify left top)
+				)
+				(uuid "c16e5b95-ede2-4364-aefe-cebf674c01a3")
 			)
 		)
 	)
@@ -1356,13 +1282,13 @@
 				(type solid)
 			)
 		)
-		(column_widths 24.13)
-		(row_heights 6.35 6.35)
+		(column_widths 30.48)
+		(row_heights 3.81 3.81)
 		(cells
-			(table_cell "Centrifugadora Selecta"
+			(table_cell "Horno Selecta HT"
 				(exclude_from_sim no)
-				(at 52.07 146.05 0)
-				(size 24.13 6.35)
+				(at 83.82 146.05 0)
+				(size 30.48 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -1374,12 +1300,12 @@
 					)
 					(justify left top)
 				)
-				(uuid "2df423ca-bc37-42b3-a2b4-7663dd01b836")
+				(uuid "e71e9375-0106-4747-a1c8-a2d850bdd399")
 			)
-			(table_cell "2 enchufes de piladora"
+			(table_cell "1 enchufe pulidora"
 				(exclude_from_sim no)
-				(at 52.07 152.4 0)
-				(size 24.13 6.35)
+				(at 83.82 149.86 0)
+				(size 30.48 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -1391,7 +1317,81 @@
 					)
 					(justify left top)
 				)
-				(uuid "c16e5b95-ede2-4364-aefe-cebf674c01a3")
+				(uuid "af5fb54c-558b-4d5e-aa98-f34455fa1d86")
+			)
+		)
+	)
+	(table
+		(column_count 1)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 22.86)
+		(row_heights 6.35 5.08 6.35)
+		(cells
+			(table_cell "Centrifugadora Merck"
+				(exclude_from_sim no)
+				(at 248.92 146.05 0)
+				(size 22.86 6.35)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify left top)
+				)
+				(uuid "c1a665a3-1d27-4324-ac12-d48df7e77717")
+			)
+			(table_cell "Agitadora Velp"
+				(exclude_from_sim no)
+				(at 248.92 152.4 0)
+				(size 22.86 5.08)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify left top)
+				)
+				(uuid "36ed79cb-dbfe-43c0-b760-617b6d04bfa7")
+			)
+			(table_cell "Cromotografo Metrohm"
+				(exclude_from_sim no)
+				(at 248.92 157.48 0)
+				(size 22.86 6.35)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify left top)
+				)
+				(uuid "66931382-9206-4b37-839c-7b1cf0d6321f")
 			)
 		)
 	)
